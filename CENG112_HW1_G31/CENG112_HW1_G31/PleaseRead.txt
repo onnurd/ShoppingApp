@@ -1,0 +1,7 @@
+Main run file : src/com/company/ShoppingApp.java .
+Run in INTELLIJIDEA. 
+
+Homework1.
+
+270201031 - Eyüp Emre Çakır
+270201035 - Onur Dindaroğlu
